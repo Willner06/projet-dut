@@ -51,12 +51,10 @@
 <style>
 
 body{
-    width: 100%;
+    width: auto;
     background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: 100%<;
     background-image: url({{asset('img-jb-gestion/fond.png')}});
-
-
 
     }
 
